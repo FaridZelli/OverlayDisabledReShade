@@ -1,4 +1,4 @@
-# OverlayDisabledReShade
+# Overlay Disabled ReShade
 Here's how to disable the ReShade Startup Message / Splash Screen on (almost) any version.  
 DISCLAIMER: This modification is only recommended for advanced users. Proceed at your won risk.
 
