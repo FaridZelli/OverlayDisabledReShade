@@ -15,6 +15,8 @@ In order to do it yourself, you will need:
 Step one:  
 Head over to the official ReShade repository and clone everything, including the submodules  
 https://github.com/crosire/reshade  
+
+- Example for version 4.9.1  
 ```
 git clone --recurse-submodules https://github.com/crosire/reshade.git
 cd reshade
