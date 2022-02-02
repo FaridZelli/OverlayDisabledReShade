@@ -3,10 +3,16 @@ Here's how to disable the ReShade Startup Message / Splash Screen on (almost) an
 DISCLAIMER: This modification is only recommended for advanced users. Proceed at your own risk.  
 And if you decide to use this build for a preset, remember to credit [***crosire***](https://github.com/crosire) and [***ReShade***](https://reshade.me)
 
-# Method 1:  
-I have already added a ready-to-use setup file, beware that it's extremely unstable and should ONLY be used for completed presets which you're not planning to adjust anytime soon. Hotkeys must be disabled. Download it [here](https://github.com/FaridZelli/OverlayDisabledReShade/raw/main/ReShade_Setup_OverlayDisabled_491.exe)
+## V5  
+### Coming Soon!
 
-# Method 2 (DIY):  
+## V4
+### See [4.9.1 Release](https://github.com/FaridZelli/OverlayDisabledReShade/releases/tag/4.9.1)
+- Note that these builds are extremely unstable, and should only be used for completed presets
+- Hotkeys must be disabled
+
+
+## DIY Method:  
 In order to do it yourself, you will need:
 1) Git
 2) Visual Studio Community 2019 with C++, MSVS17 v141 Build Tools, .NET and Python modules installed
