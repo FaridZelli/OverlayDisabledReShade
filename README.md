@@ -7,7 +7,7 @@ And if you decide to use this build for a preset, remember to credit [***crosire
 ### Coming Soon!
 
 ## V4
-### See [4.9.1 Release](https://github.com/FaridZelli/OverlayDisabledReShade/releases/tag/4.9.1)
+### Link at [4.9.1 Release](https://github.com/FaridZelli/OverlayDisabledReShade/raw/main/ReShade_Setup_OverlayDisabled_491.exe)
 - Note that these builds are extremely unstable, and should only be used for completed presets
 - Hotkeys must be disabled
 
