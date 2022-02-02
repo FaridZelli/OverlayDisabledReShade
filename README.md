@@ -46,3 +46,9 @@ build [Release] (32bit)
 build [Release] (64bit)
 build [Release Setup] (64bit)
 ```
+
+## FAQ:
+- **<>** Why didn't you fork the project?   
+**A:** I'm too lazy to make an actual fork out of this
+- **<>** My computer exploded   
+**A:** That's on you man
